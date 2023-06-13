@@ -1,0 +1,33 @@
+#name-form{
+    height:100vh;
+}
+
+html,body {
+    height:100%;
+    overflow: hidden; 
+
+}
+
+body {
+
+    height:500%;
+    padding:0;
+    margin:0;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.form-control {
+    width: 100%;
+    min-height: 38px;
+    font-size: 15px;
+    border: 1px solid #c8c8c8;
+}
+.input-control {
+    width: 100%;
+    min-height: 38px;
+    font-size: 15px;
+    border: 1px solid #c8c8c8;
+}
